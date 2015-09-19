@@ -1,2 +1,0 @@
-# PropertyImplementation
-Property C++ Implementation
